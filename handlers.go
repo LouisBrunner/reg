@@ -15,8 +15,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/genuinetools/reg/clair"
-	"github.com/genuinetools/reg/registry"
+	"github.com/LouisBrunner/reg/clair"
+	"github.com/LouisBrunner/reg/registry"
 	"github.com/gorilla/mux"
 	"github.com/sirupsen/logrus"
 )

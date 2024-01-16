@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/genuinetools/reg/registry"
+	"github.com/LouisBrunner/reg/registry"
 )
 
 const tagsHelp = `Get the tags for a repository.`
