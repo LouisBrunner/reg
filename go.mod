@@ -1,4 +1,4 @@
-module github.com/genuinetools/reg
+module github.com/LouisBrunner/reg
 
 go 1.13
 
